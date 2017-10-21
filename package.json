@@ -1,0 +1,12 @@
+{
+  "name" : "RedisDemo",
+  "description" : "Demonstrating Redis as Cache",
+  "scripts": {
+    "movie" : "node MovieQuery.js",
+    "List" : "node RedisQueryList"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "sqlite3": "^3.1.8"
+  }
+}
