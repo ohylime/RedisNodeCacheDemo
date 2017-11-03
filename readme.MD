@@ -11,5 +11,6 @@ Documents
 
 > - Redis
 > - Sqlite IMDB database
+> - Basic Lazy Loading Strategy for Caching
 > - **you wont be able to run this without either.**
 
